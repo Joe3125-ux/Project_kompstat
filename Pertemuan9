@@ -1,0 +1,8 @@
+A = rnorm(100, mean=50, sd=10)
+B = rexp(100)
+C = rt(100, df=5)
+x <- c(2, 3, 4, 5, 1)
+y <- c(1, 1, 1, 1, 1)
+z <- x+y
+a <- rnorm(100)
+hist(rnorm(100))
